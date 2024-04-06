@@ -48,3 +48,8 @@ header:
       fr-LU: *FR
       # @end locale config
     url: https://tonoysumariachi.com/?fbclid=IwAR3N_4f2-RuG5demHllbaJJrjLSXDIvJCBfIjSGTuZSu1fWbmNX7CbS2H70
+
+
+  - title: LIGA JOHTO
+    url: /liga-johto/
+    external: false
